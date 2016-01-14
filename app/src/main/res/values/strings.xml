@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MOPPA</string>
+    <string name="app_id">1036012493121026</string>
+    <string name="action_settings">Settings</string>
+    <string name="wifi_text">Turn on the Wifi</string>
+    <string name="energy_textView">Connect your phone to charge it</string>
+    <string name="idle_state">Put your device in Idle state</string>
+</resources>
